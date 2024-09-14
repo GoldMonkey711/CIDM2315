@@ -8,3 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0] - 2024-08-27
 
 - Chanelog created!
+
+## [1.1] - 2024-09-07
+
+- Added Homework 1 (late chanelog update, 9-13)
+
+## [1.2] - 2024-09-13
+
+- Added Homework 2
