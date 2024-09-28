@@ -24,3 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.4] - 2024-09-22
 
 - Added Homework 4
+
+## [1.5] - 2024-09-28
+
+- Added Homework 5
