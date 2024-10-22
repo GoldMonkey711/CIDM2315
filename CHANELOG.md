@@ -32,3 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.6] - 2024-10-14
 
 - Added Homework 6
+
+## [1.7] - 2024-10-21
+
+- Added Homework 7
